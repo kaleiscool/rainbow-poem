@@ -6,6 +6,8 @@ pink
 teal
 purple
 yellow
+varnish
+stainless steel
 green
 turqouise
 magenta
