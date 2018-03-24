@@ -6,3 +6,4 @@ pink
 purple
 yellow
 green
+turqouise
