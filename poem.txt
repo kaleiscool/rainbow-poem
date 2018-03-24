@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the unicorn
 
 red 
 blue
@@ -7,3 +7,5 @@ purple
 yellow
 green
 turqouise
+magenta
+The unicorn and rainbow.
